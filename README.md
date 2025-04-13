@@ -1,4 +1,4 @@
-# 🚀 THO-OPTIMIZE - Panel de Optimización para Windows
+# 🚀 THO-OPTIMIZE - PANEL DE OPTIMIZACION PARA WINDOWS
 
 <div align="center">
 
