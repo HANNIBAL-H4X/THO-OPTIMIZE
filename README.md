@@ -5,7 +5,7 @@
 ![Preview](img/img.png)
 
 [![Discord](https://img.shields.io/badge/Discord-Únete-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4svwzsy3UP)
-[![Tutorial](https://img.shields.io/badge/Tutorial-Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tu_video_aqui)
+[![Tutorial](https://img.shields.io/badge/Tutorial-Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/2-KIFU9jc1E?si=RUpPK4iljoV-McVH)
 
 </div>
 
