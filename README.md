@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/THO-OPTIMIZE.git
+git clone https://github.com/HANNIBAL-THO/THO-OPTIMIZE.git
 ```
 
 2. Instala las dependencias:
